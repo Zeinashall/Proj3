@@ -119,6 +119,7 @@ body {
   position: absolute;
   color: white;
   bottom: 10%;
+  margin-left: 20px;
 }
 
 .LCdesc {
@@ -218,6 +219,7 @@ body {
   color: #666;
   font-size: 1rem;
   line-height: 1.6;
+  margin: 20px;
 }
 
 .content-section .content .button {
