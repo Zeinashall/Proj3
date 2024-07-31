@@ -172,6 +172,7 @@ body {
   margin-top: 10px;
   font-size: 25px;
   line-height: 1.5;
+  margin: 20px;
 }
 
 * {
@@ -219,7 +220,6 @@ body {
   color: #666;
   font-size: 1rem;
   line-height: 1.6;
-  margin: 20px;
 }
 
 .content-section .content .button {
