@@ -445,6 +445,7 @@ footer {
 
   .caption {
     font-size: 35px;
+    margin: 20px;
   }
   .content-section .content {
     display: flex;
@@ -456,5 +457,6 @@ footer {
 
   .content-section .content p {
     font-size: 22px;
+    margin: 20px;
   }
 }
